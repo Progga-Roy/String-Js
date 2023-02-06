@@ -10,6 +10,7 @@ function findMax(jim, della, chinku) {
     else {
         console.log('Chinku get the cake')
     }
+    
 
 }
 const numbers = findMax(84, 99, 77);
