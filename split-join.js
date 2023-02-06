@@ -20,3 +20,7 @@ const lorem2 = ['Lorem ipsum, dolor sit amet consectetur' ,
 ' culpa facere corporis porro alias.']
 
 console.log(lorem2.join('/'));
+
+// trim
+const display = '     hello world!       ';
+console.log( display.trimEnd());
